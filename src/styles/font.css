@@ -1,0 +1,56 @@
+/* @font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/fonts/DMSansBold.ttf");
+  font-family: "DM Sans";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/fonts/DMSansRegular.ttf");
+  font-family: "DM Sans";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/fonts/DMSansMedium.ttf");
+  font-family: "DM Sans";
+  font-weight: 500;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/fonts/RobotoMedium.ttf");
+  font-family: "Roboto";
+  font-weight: 500;
+} */
+
+/* mine */
+/* @font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/font1.ttf");
+  font-family: "font1";
+  font-weight: 500;
+} */
+
+
+
+/* @font-face {
+    font-family: "font1";
+    src: url('/public/fonts/font1.ttf') format('woff2');
+} */
+
+/* @font-face {
+  font-family: 'CustomFont';
+  src: url('/public/fonts/font1.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+} */
+
+@font-face {
+    font-family: Satoshi;
+    src: url('../../public/fonts/font1.ttf')
+}

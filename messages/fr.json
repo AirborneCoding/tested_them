@@ -1,0 +1,23 @@
+{
+    "NotFoundPage": {
+        "title": "Désolé!!! Page non trouvée - 404",
+        "text": "La page que vous recherchez n'existe pas.",
+        "btnText": "retour à l'accueil"
+    },
+    "ArticlesPage": {
+        "CategoriesNames": {
+            "workouts": "entraînements",
+            "nutrition": "nutrition",
+            "the fit life": "la vie en forme",
+            "supplements": "les compléments",
+            "training methods": "méthodes d'entraînement",
+            "health & science": "santé & science",
+            "recovery & injuries": "récupération & blessures",
+            "competitions": "compétitions",
+            "athletes & celebrities": "athlètes & célébrités",
+            "news & events": "actualités & événements",
+            "Q&A": "Q&A",
+            "challenges": "les défis"
+        }
+    }
+}

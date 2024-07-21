@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* font-weight: 400;
+  line-height: 1.5; */
+  transition: all 0.3s linear;
+  overflow-x: hidden;
+
+  line-height: 1.4;
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  letter-spacing: 0.3rem;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.body-container {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  transition: all 0.3s ease;
+}
+
+/* Responsive Margins */
+@media screen and (min-width: 576px) {
+  .body-container {
+    max-width: 800px;
+  }
+}
+
+/* 768 */
+@media screen and (min-width: 800px) {
+  .body-container {
+    max-width: 850px;
+    /* 720 */
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .body-container {
+    max-width: 960px;
+    /* 960 */
+
+    /* 1100 */
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .body-container {
+    /* 170 */
+    max-width: 1510px;
+    /* 1140 */
+    /* 1220 */
+    /* 1540 */
+
+    /* 1610 */
+
+
+    /* 1200 */
+  }
+}
+
+
+
+/* img {
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+} */

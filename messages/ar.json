@@ -1,0 +1,26 @@
+{
+    "NotFoundPage": {
+        "title": "آسف!!! لم يتم العثور على الصفحة - 404",
+        "text": "الصفحة التي تبحث عنها غير موجودة.",
+        "btnText": "العودة إلى الرئيسية"
+    },
+    "Globals": {
+        "Search": "بحث"
+    },
+    "ArticlesPage": {
+        "CategoriesNames": {
+            "workouts": "التمارين",
+            "nutrition": "التغذية",
+            "the fit life": "الحياة الصحية",
+            "supplements": "المكملات الغذائية",
+            "training methods": "أساليب التدريب",
+            "health & science": "الصحة والعلوم",
+            "recovery & injuries": "التعافي والإصابات",
+            "competitions": "البطولات",
+            "athletes & celebrities": "الرياضيين والمشاهير",
+            "news & events": "الأخبار والفعاليات",
+            "Q&A": "Q&A",
+            "challenges": "التحديات"
+        }
+    }
+}
